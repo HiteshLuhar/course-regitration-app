@@ -1,12 +1,12 @@
 WELCOME TO COURSE REGISTRATION SYSTEM by Hitesh
 SchoolDB App of IT368 in PHP
-This application runs with bundle of Apache as HTTP Server, MySQL, MariaDB or MongoDB as the database management system and PHP, Perl, or Python, the scripting languages (respectively programming languages) used for dynamic web pages and web development.
+This application runs with bundle of Apache as HTTP Server, MySQL, MariaDB or MongoDB as the database management system and PHP used for dynamic web pages and web development.
 
 NOTE FOR INSTALLATION: 
 A>Please download and install WAMP, MAMP or XAMP server.
 B>Please rum installed server and place the whole SchoolDB folder into C:\wamp\www i.e. root folder.  
 C>PLEASE RUN database.php to create database schema. 
-D>Launch "localhost/SchoolDB/default.php" in any browser.
+
 
 Student Login (default.php) 
 is for STUDENT registration only.
